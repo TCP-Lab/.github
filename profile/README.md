@@ -1,8 +1,8 @@
-# Welcome to CMA-Lab's Organization
+# Welcome to TCP-Lab's Organization
 
 ## Who are you?
 We are a small team of bioinformaticians working for the University of Turin, based in Turin, Italy. Our team is outlined below.
-We are part of a bigger organization, CMA-Lab, where we study a wide range of subjects, but mostly centered around cancer and general physiology.
+We are part of a bigger organization, the Turin Cell Physiology Lab (TCP-Lab), where we study a wide range of subjects, but mostly centered around cancer and general physiology.
 You can find CMA-Lab's ResearchGate page [here](https://www.researchgate.net/lab/Luca-Munaron-Lab).
 
 ## Where are you?
