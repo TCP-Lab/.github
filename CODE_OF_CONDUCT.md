@@ -1,4 +1,4 @@
-# CMA-Lab Contributor Code of Conduct
+# TCP-Lab Contributor Code of Conduct
 
 ## Our Pledge
 
