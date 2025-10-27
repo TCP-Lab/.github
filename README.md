@@ -1,2 +1,2 @@
 # .github
-Public documentation files for CMA-Lab
+Public documentation files for TCP-Lab
